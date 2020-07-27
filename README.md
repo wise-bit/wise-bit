@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 
 <!--
 **wise-bit/wise-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently a Computer Science and Mathematics Dual Major student at the University of Ottawa.
+
+🔭 I’m currently working on software development with uOttawa Outreach. 
+📫 Please feel free to contact me for any reason whatsoever! 
