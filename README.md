@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently a Computer Science and Mathematics Dual Major student at the University of Ottawa.
+#### I'm a Computer Science and Mathematics Dual Major student at the University of Ottawa.
+
 
 🔭 I’m currently working on software development with uOttawa Outreach. 
-📫 Please feel free to contact me for any reason whatsoever! 
+
+💬 Extremely interested in Machine Learning and literally anything related to mathematics!
+
+📫 Please feel free to contact me for any reason whatsoever!!
