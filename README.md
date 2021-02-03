@@ -20,3 +20,18 @@ Here are some ideas to get you started:
 💬 Extremely interested in Machine Learning and literally anything related to mathematics!
 
 📫 Please feel free to contact me for any reason whatsoever!!
+
+![wisebit's github stats](https://github-readme-stats.vercel.app/api?username=wise-bit&theme=dark&show_icons=true)
+
+![wisebit's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wise-bit&theme=vue-dark)
+
+<!-- <table border="0" width=100% rules=none>
+ <tr>
+    <td style="vertical-align:top">
+      <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=wise-bit&show_icons=true&theme=vue-dark" width="100%">
+    </td>
+    <td style="vertical-align:top">
+      <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wise-bit&theme=vue-dark" width="100%">
+    </td>
+ </tr>
+</table> -->
