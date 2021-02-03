@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![wisebit's github stats](https://github-readme-stats.vercel.app/api?username=wise-bit&theme=dark&show_icons=true)
 
-![wisebit's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wise-bit&theme=vue-dark)
+<!-- ![wisebit's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wise-bit&theme=vue-dark) -->
 
 <!-- <table border="0" width=100% rules=none>
  <tr>
