@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 📫 Please feel free to contact me for any reason whatsoever!!
 
-![wisebit's github stats](https://github-readme-stats.vercel.app/api?username=wise-bit&theme=dark&show_icons=true)
+<!-- ![wisebit's github stats](https://github-readme-stats.vercel.app/api?username=wise-bit&theme=dark&show_icons=true) -->
 
 <!-- ![wisebit's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wise-bit&theme=vue-dark) -->
 
