@@ -15,13 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm a Computer Science and Mathematics Dual Major student at the University of Ottawa.
+<h3 align="center"><samp>Hello there! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://wise-bit.github.io">Sat.</a></b></samp></h3>
 
+<p align="center"><br>
+
+<samp>
+Computer Science and Mathematics Dual Major student @ 🏛️ The University of Ottawa
+</samp>
+
+</p>
+
+<p align="center"><br><samp>
 💬 Extremely interested in Machine Learning and literally anything related to mathematics!
+</samp></p>
 
+<details align="center"><summary> <samp>&#9776; Details</samp></summary>
+ <img src="https://github-readme-stats.vercel.app/api?username=wise-bit&theme=dark&show_icons=true"></img><br>
+</details>
+
+<p align="center"><samp>
+=========================
+</samp></p>
+
+<p align="center"><br><samp>
 📫 Please feel free to contact me for any reason whatsoever!!
-
-<!-- ![wisebit's github stats](https://github-readme-stats.vercel.app/api?username=wise-bit&theme=dark&show_icons=true) -->
+</samp></p>
 
 <!-- ![wisebit's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wise-bit&theme=vue-dark) -->
 
