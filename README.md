@@ -32,12 +32,14 @@ Computer Science and Mathematics Dual Major student @ 🏛️ The University of 
 </samp></p>
 
 <details align="center"><summary> <samp>&#9776; Details</samp></summary>
- <img src="https://github-readme-stats.vercel.app/api?username=wise-bit&theme=dark&show_icons=true"></img><br>
+ </br>
+ <img src="https://github-readme-stats.vercel.app/api?username=wise-bit&theme=dark&show_icons=true"></img>
+ <br>
 </details>
 
 <p align="center"><samp>
 ========================= </br>
- 
+</br>
 <samp>
 📫 Please feel free to contact me for any reason whatsoever!!
 </samp>
