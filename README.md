@@ -18,15 +18,17 @@ Here are some ideas to get you started:
 <h3 align="center"><samp>Hello there! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://wise-bit.github.io">Sat.</a></b></samp></h3>
 
 <p align="center"><br>
-
 <samp>
 Computer Science and Mathematics Dual Major student @ 🏛️ The University of Ottawa
 </samp>
-
+</br>
+<samp>
+💬 Extremely interested in Machine Learning and literally anything related to mathematics!
+</samp>
 </p>
 
-<p align="center"><br><samp>
-💬 Extremely interested in Machine Learning and literally anything related to mathematics!
+<p align="center"><samp>
+
 </samp></p>
 
 <details align="center"><summary> <samp>&#9776; Details</samp></summary>
@@ -34,11 +36,11 @@ Computer Science and Mathematics Dual Major student @ 🏛️ The University of 
 </details>
 
 <p align="center"><samp>
-=========================
-</samp></p>
-
-<p align="center"><br><samp>
+========================= </br>
+ 
+<samp>
 📫 Please feel free to contact me for any reason whatsoever!!
+</samp>
 </samp></p>
 
 <!-- ![wisebit's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wise-bit&theme=vue-dark) -->
