@@ -21,7 +21,7 @@ Computer Science and Mathematics Dual Major student @ 🏛️ The University of 
 </samp>
 </br>
 <samp>
-💬 Extremely interested in Machine Learning and literally anything related to mathematics!
+Extremely interested in 📊 Machine Learning and literally anything related to 📐 mathematics!
 </samp>
 </p>
 
@@ -29,9 +29,9 @@ Computer Science and Mathematics Dual Major student @ 🏛️ The University of 
 
 </samp></p>
 
-<details align="center"><summary> <samp>&#9776; Details</samp></summary>
+<details align="center"><summary> <samp>&#9776; Details 📈</samp></summary>
  </br>
- <img src="https://github-readme-stats.vercel.app/api?username=wise-bit&theme=dark&show_icons=true&include_all_commits=true"></img>
+ <img src="https://github-readme-stats.vercel.app/api?username=wise-bit&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true"></img>
  <br>
 </details>
 
