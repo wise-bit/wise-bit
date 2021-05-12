@@ -31,7 +31,7 @@ Computer Science and Mathematics Dual Major student @ 🏛️ The University of 
 
 <details align="center"><summary> <samp>&#9776; Details</samp></summary>
  </br>
- <img src="https://github-readme-stats.vercel.app/api?username=wise-bit&theme=dark&show_icons=true"></img>
+ <img src="https://github-readme-stats.vercel.app/api?username=wise-bit&theme=dark&show_icons=true&include_all_commits=true"></img>
  <br>
 </details>
 
