@@ -21,7 +21,7 @@ Computer Science and Mathematics Dual Major student @ 🏛️ The University of 
 </samp>
 </br>
 <samp>
-Extremely interested in 📊 Machine Learning and literally anything related to 📐 mathematics!
+Extremely interested in 📊 Machine Learning and anything related to 📐 mathematics!
 </samp>
 </p>
 
