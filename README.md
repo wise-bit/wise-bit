@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left"><samp>Hello there! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://wise-bit.github.io">Sat.</a></b></samp></h3>
+<h3 align="left"><samp>Hello there! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.satrajit.ca">Sat.</a></b></samp></h3>
 
 <p align="left"><br>
 <samp>
