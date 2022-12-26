@@ -45,10 +45,6 @@ Here are some ideas to get you started:
 
 </p>
 
-<p align="left"><samp>
-
-</samp></p>
-
 <!-- <details align="left"><summary> <samp>&#9776; Details 📈</samp></summary>
  </br>
  <img src="https://github-readme-stats.vercel.app/api?username=wise-bit&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true"></img>
@@ -57,7 +53,6 @@ Here are some ideas to get you started:
 
 <!-- ========================= </br> -->
 
-![](https://hit.yhype.me/github/profile?user_id=16481641)
 <!-- ![wisebit's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wise-bit&theme=vue-dark) -->
 
 <!-- <table border="0" width=100% rules=none>
