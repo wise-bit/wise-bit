@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h3 align="left"><samp>Hello there! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.satrajit.ca">Sat.</a></b> _</samp></h3>
 
-<p align="left"><br>
+<p align="left">
 
 ### 📝 Work Experiences
 - **Intact Financial Corporation** - AI Backend Developer [Toronto, Fall 2022]
