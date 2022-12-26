@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - Bioinformatics
 
 ### 🏛️ Education
-- Computer Science and Mathematics Dual Major student @ University of Ottawa
+- 4th year Computer Science and Mathematics Dual Major student @ University of Ottawa
  
 ### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/satrajit-c
