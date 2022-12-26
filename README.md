@@ -13,31 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
-
 <h3 align="left"><samp>Hello there! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.satrajit.ca">Sat.</a></b> _</samp></h3>
 
 <p align="left"><br>
- 
-## 📝 Work Experiences
+
+### 📝 Work Experiences
 - **Intact Financial Corporation** - AI Backend Developer [Toronto, Fall 2022]
 - **RBC (Royal Bank of Canada)** - SRE Software Developer [Toronto, Winter 2022]
 - **uOttawa Engineering Outreach** - Full-Stack Developer [Ottawa, Summer 2020 + Summer 2021]
 
-## 🌱 Interests
+### 🌱 Interests
 - Machine Learning and Data Science
 - Backend Development and Algorithm Design
 - Bioinformatics
 
-## 🏛️ Education
-Computer Science and Mathematics Dual Major student @ University of Ottawa
+### 🏛️ Education
+- Computer Science and Mathematics Dual Major student @ University of Ottawa
  
-## 📫 Contact
+### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/satrajit-c
 - Email: satrajit314@gmail.com
 - Website: https://satrajit.ca
 
-## 📫 Support
+### 📫 Support
 
 <p align="left">
 <a href="https://www.buymeacoffee.com/wisebit" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 130px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
