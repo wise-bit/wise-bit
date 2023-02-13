@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 ### 🌱 Interests 
 - Machine Learning and Data Science
-- Software Development
 - Cryptography and Encryption
 - Backend Development and Algorithm Design
 - Bioinformatics
