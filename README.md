@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 - **RBC (Royal Bank of Canada)** - SRE Software Developer [Toronto, Winter 2022]
 - **uOttawa Engineering Outreach** - Full-Stack Developer [Ottawa, Summer 2020 + Summer 2021]
 
-### 🌱 Interests
+### 🌱 Interests 
 - Machine Learning and Data Science
+- Software Development
+- Cryptography and Encryption
 - Backend Development and Algorithm Design
 - Bioinformatics
 
