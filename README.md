@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <p align="left">
 
 ### 📝 Work Experiences
+- **KPMG** - Full-Stack Developer [Toronto, Fall 2023]
 - **Intact Financial Corporation** - AI Backend Developer [Toronto, Fall 2022 + Summer 2023]
 - **RBC (Royal Bank of Canada)** - SRE Software Developer [Toronto, Winter 2022]
 - **uOttawa Engineering Outreach** - Full-Stack Developer [Ottawa, Summer 2020 + Summer 2021]
