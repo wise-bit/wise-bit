@@ -19,8 +19,14 @@
 
 ![code parrot gif](code_parrot.gif)
 
+### ⚡ Currently Working On
+
+- **FBank:** Decentralized fantasy bank aimed towards DnD campaigns
+- **Logs**: FastHTML project
+- **Clites**: Easy-to-run CLI notes
+
 ### 🌱 Interests 
-Machine Learning and Data Science // Cryptography // Backend & Systems Design // Bioinformatics
+Machine Learning & Data Science // Cryptography // Backend & Systems Design // Bioinformatics
  
 ### 📫 Contact
 <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/satrajit-c">LinkedIn</a></b> // <b><a rel="nofollow noopener noreferrer" target="_blank" href="mailto:satrajit314@gmail.com">Email</a></b> // <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://satrajit.ca">Website</a></b>
