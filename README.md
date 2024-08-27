@@ -23,9 +23,7 @@
 Machine Learning and Data Science // Cryptography // Backend & Systems Design // Bioinformatics
  
 ### 📫 Contact
-- <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/satrajit-c">LinkedIn</a></b>
-- <b><a rel="nofollow noopener noreferrer" target="_blank" href="mailto:satrajit314@gmail.com">Email</a></b>
-- <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://satrajit.ca">Website</a></b>
+<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/satrajit-c">LinkedIn</a></b> // <b><a rel="nofollow noopener noreferrer" target="_blank" href="mailto:satrajit314@gmail.com">Email</a></b> // <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://satrajit.ca">Website</a></b>
 
 ### ✊ Support
 
