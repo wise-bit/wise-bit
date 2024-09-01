@@ -15,7 +15,7 @@
 
 🔭 **Presently working with cool insurance things at Intact Data Lab as an AI Developer!**
 
-💼 Previous experiences at KPMG, Intact, RBC & University of Ottawa.
+💼 Previous SWE experiences at KPMG, Intact, RBC & University of Ottawa.
 
 ![code parrot gif](code_parrot.gif)
 
