@@ -25,7 +25,7 @@
 | --- | --- | --- |
 | [f-bank](https://github.com/wise-bit/fantasy-bank) | v0.9 | Decentralized fantasy bank aimed towards DnD campaigns |
 | [logs](https://github.com/wise-bit/log.satrajit.ca) | v0.1 | FastHTML project |
-| clites | wip | Easy-to-run CLI notes |
+| [clites](https://github.com/wise-bit/clites) | wip | Easy-to-run CLI notes |
 
 ### 🌱 Interests 
 Machine Learning & Data Science // Cryptography // Backend & Systems Design // Bioinformatics
