@@ -13,9 +13,10 @@
 
 <h3 align="left"><samp>Hello there! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.satrajit.ca">Sat.</a></b> _</samp></h3>
 
-🔭 **Presently working with cool insurance things at Intact Data Lab as an AI Developer!**
-
+🔭 **Presently working with cool insurance things at Intact Data Lab as an AI Developer!** \
 💼 Previous SWE experiences at KPMG, Intact, RBC & University of Ottawa.
+
+🐧 [**i use nix btw**](https://github.com/wise-bit/dotfiles/tree/main/nixos)
 
 ![code parrot gif](code_parrot.gif)
 
