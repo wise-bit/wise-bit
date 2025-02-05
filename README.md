@@ -11,10 +11,10 @@
 
 -->
 
-<h3 align="left"><samp>Hello there! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.satrajit.ca">Sat.</a></b> _</samp></h3>
+<h3 align="left"><samp>hello there! i am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.satrajit.ca">sat.</a></b> _</samp></h3>
 
-🔭 **Presently working with cool insurance things at Intact Data Lab as an AI Developer!** \
-💼 Previous SWE experiences at KPMG, Intact, RBC & University of Ottawa.
+🔭 **presently working with cool insurance things at the intact data lab as an ai developer!** \
+💼 previous swe experiences at kpmg, intact, rbc & university of ottawa.
 
 🐧 [**i use nix btw**](https://github.com/wise-bit/dotfiles/tree/main/nixos)
 
@@ -24,15 +24,12 @@
 
 | project | ver | | 
 | --- | --- | --- |
-| [f-bank](https://github.com/wise-bit/fantasy-bank) | v0.9 | Decentralized fantasy bank aimed towards DnD campaigns |
-| [logs](https://github.com/wise-bit/log.satrajit.ca) | v0.1 | FastHTML project |
-| [clites](https://github.com/wise-bit/clites) | wip | Easy-to-run CLI notes |
-
-### 🌱 Interests 
-Machine Learning & Data Science // Cryptography // Backend & Systems Design // Bioinformatics
+| [f-bank](https://github.com/wise-bit/fantasy-bank) | v0.9 | decentralized fantasy bank aimed towards dnd campaigns |
+| [logs](https://github.com/wise-bit/log.satrajit.ca) | v0.1 | fasthtml project |
+| [clites](https://github.com/wise-bit/clites) | wip | easy-to-run cli notes |
  
 ### 📫 Contact
-<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/satrajit-c">LinkedIn</a></b> // <b><a rel="nofollow noopener noreferrer" target="_blank" href="mailto:satrajit314@gmail.com">Email</a></b> // <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://satrajit.ca">Website</a></b>
+<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/satrajit-c">linkedin</a></b> // <b><a rel="nofollow noopener noreferrer" target="_blank" href="mailto:satrajit314@gmail.com">email</a></b> // <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://satrajit.ca">website</a></b>
 
 ### ✊ Support
 
